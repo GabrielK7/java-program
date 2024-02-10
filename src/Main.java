@@ -8,5 +8,6 @@ public class Main {
         System.out.println(finalString);
         System.out.println("Hi Git!");
         System.out.println("Hi from Acer");
+        System.out.println("Text updated");
     }
 }
