@@ -7,5 +7,6 @@ public class Main {
          String finalString = stringBuilder.toString();
         System.out.println(finalString);
         System.out.println("Hi Git!");
+        System.out.println("Hi from Acer");
     }
 }
